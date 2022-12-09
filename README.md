@@ -4,8 +4,9 @@
 ## 训练配置
 - RTX3090 * 3
 - tensorflow == 2.9.0
-- tensorflow-hub、tensorflow-text
+- tensorflow-hub、tensorflow-text == 2.9
 - tushare所有财经快讯新闻（新浪财经，共100+万条），带有频道标签。
+
 预训练任务即是拟合这个中文财经数据集，使BERT模型更适应中文财经新闻的语境，在下游任务中表现更出色。
 
 模型在此数据集获得样本外AUC>=93%.
