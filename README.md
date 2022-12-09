@@ -5,7 +5,7 @@
 - RTX3090 * 3
 - tensorflow == 2.9.0
 - tensorflow-hub、tensorflow-text
-- tushare所有财经快讯新闻（共100+万条），带有频道标签。
+- tushare所有财经快讯新闻（新浪财经，共100+万条），带有频道标签。
 
 ## 模型
 百度网盘下载链接
