@@ -22,7 +22,8 @@ https://pan.baidu.com/s/1M9qtgJJqW8eodg7qJrW6yg
 ## 使用方法
 使用方法和tfhub模型的使用方法一致（见https://tfhub.dev/tensorflow/bert_zh_L-12_H-768_A-12/4）
 
-Usage.py
+`Usage.py`
+
 ```python
 import tensorflow as tf
 import tensorflow_hub as hub
